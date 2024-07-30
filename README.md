@@ -1,5 +1,3 @@
-Here's the documentation for the provided script, which scrapes website data and saves it to an Excel file. The script uses various libraries such as `argparse`, `requests`, `BeautifulSoup`, `pandas`, `lxml`, `selenium`, and `openpyxl`.
-
 ## Documentation for `scraper-v3.py`
 
 ### Overview
